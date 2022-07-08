@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog - KB
+title: Welcome to my blog - Krishna Bala
 ---
 
